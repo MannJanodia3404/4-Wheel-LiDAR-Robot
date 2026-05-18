@@ -26,8 +26,8 @@ This robot is a compact, four-wheeled mobile platform built for autonomous navig
 
 | File | Description | View |
 |------|-------------|------|
-| `robot_assembly.stl` | Full 3D mesh — viewable in browser | [🔗 View in 3D](robot_assembly.stl) |
-| `robot_assembly.step` | Editable CAD assembly file | [📥 Download](robot_assembly.step) |
+| `robot_assembly.stl` | Full 3D mesh — viewable in browser | [🔗 View in 3D](4-wheel robot.stl) |
+| `robot_assembly.step` | Editable CAD assembly file | [📥 Download](4-wheel robot.step) |
 
 > **Note:** The STEP file contains the complete assembly with all components embedded — no need to download individual parts separately.
 
