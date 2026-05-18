@@ -112,11 +112,11 @@ If you'd like to 3D print the chassis:
 
 ## Future improvements
 
-- [ ] Add a camera module for visual SLAM
-- [ ] Design a swappable battery compartment
-- [ ] Improve suspension for rough terrain
-- [ ] Add IMU mounting bracket
-- [ ] Add bumper sensors
+- Add a camera module for visual SLAM
+- Design a swappable battery compartment
+- Improve suspension for rough terrain
+- Add IMU mounting bracket
+- Add bumper sensors
 
 ---
 
