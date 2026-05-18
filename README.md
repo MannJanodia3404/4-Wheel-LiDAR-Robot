@@ -36,7 +36,7 @@ This robot is a compact, four-wheeled mobile platform built for autonomous navig
 ## How to view the design
 
 ### Option 1: View in your browser
-Click on **[`robot_assembly.stl`](robot_assembly.stl)** — GitHub will render it as an interactive 3D model. You can:
+Click on **[`4-wheel robot.stl`](4-wheel%20robot.stl)** — GitHub will render it as an interactive 3D model. You can:
 - **Rotate** by clicking and dragging
 - **Zoom** with your scroll wheel
 - **Pan** by right-clicking and dragging
@@ -100,16 +100,17 @@ If you'd like to 3D print the chassis:
 
 ---
 
+<!--
 ## 📸 Gallery
 
-<!-- Add more renders/screenshots here -->
 ![Top View](images/top.png)
 ![Side View](images/side.png)
 ![LiDAR Mount Detail](images/lidar_mount.png)
+-->
 
 ---
 
-## 🔮 Future improvements
+## Future improvements
 
 - [ ] Add a camera module for visual SLAM
 - [ ] Design a swappable battery compartment
@@ -119,14 +120,14 @@ If you'd like to 3D print the chassis:
 
 ---
 
-## 📜 License
+## License
 
 This project is shared for **personal, educational, and research purposes**. Feel free to download, view, modify, and learn from the design. Attribution appreciated if you use or remix it.
 
 ---
 
-## 💬 Feedback & contributions
+## Feedback & contributions
 
 Have suggestions, found an issue, or built one yourself? Open an [issue](../../issues) or reach out — I'd love to hear about it!
 
-⭐ If you like this project, consider giving it a star!
+If you like this project, consider giving it a star!
