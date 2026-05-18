@@ -2,7 +2,7 @@
 
 A 3D CAD model of a **4-wheeled mobile robot equipped with a LiDAR sensor** mounted on top for 360° environmental scanning. Designed for applications in autonomous navigation, SLAM (Simultaneous Localization and Mapping), and robotics research.
 
-![Robot Render](images/render.png)
+![Robot Render](images.png)
 
 ---
 
